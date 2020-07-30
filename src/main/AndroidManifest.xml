@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.topchef">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/top"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/top"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme"
+        tools:replace="android:supportsRtl,android:icon"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity2"
+            android:label="@string/title_activity_maps2"></activity>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserPanel.userSignup" />
+        <activity android:name=".UserPanel.userSignin" />
+        <activity
+            android:name=".Login"
+            android:noHistory="true" />
+        <activity
+            android:name=".UserPanel.category"
+            android:label="@string/title_activity_category"
+            android:theme="@style/AppTheme" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0"
+            tools:replace="android:value" />
+
+        <activity
+            android:name=".UserPanel.foodDetails"
+            android:label="Proude to Serve you Chose what you Like"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".UserPanel.FoodInfo"
+            android:label="@string/title_activity_food_info"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".UserPanel.ShowCart" />
+        <activity android:name=".UserPanel.ShowOrders" />
+
+        
+        <service android:name=".RealTimeNotification.fcmmessageingservice">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.facebook.accountkit.ApplicationName"
+            android:value="@string/app_name" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.facebook.accountkit.ClientToken"
+            android:value="@string/account_kit_client_token" />
+
+        <activity
+            android:name="com.facebook.accountkit.ui.AccountKitActivity"
+            android:theme="@style/AppLoginTheme"
+            tools:replace="android:theme" />
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity android:name=".UserPanel.favourite_food" />
+        <activity android:name=".AboutUs" />
+        <activity
+            android:name=".Track_shipper"
+            android:label="@string/title_activity_track_shipper" />
+
+        <service
+            android:name=".getLocation"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>

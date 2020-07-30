@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash"
+    tools:context="com.example.topchef.UserPanel.ShowOrders">
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/orders_recycler"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+</android.support.v7.widget.RecyclerView>
+    <com.wang.avi.AVLoadingIndicatorView
+    android:id="@+id/avi"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        app:indicatorName="LineScalePulseOutIndicator"
+    android:layout_centerInParent="true"
+    app:indicatorColor="@color/darkRed"
+    />
+</RelativeLayout>

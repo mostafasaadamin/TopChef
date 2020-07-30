@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/loginbackk"
+    android:layout_height="match_parent"
+    tools:context="com.example.unknown.topchef.UserPanel.userSignup">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:id="@+id/formLogo"
+        android:text="Top Chef"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="95sp"
+        android:textColor="#fff"
+        android:layout_marginBottom="30dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/lay"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/trans_white_rectangle"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_centerInParent="true"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get Started"
+            android:textColor="@color/darkRed"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="5dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:hint="name"
+            android:background="@drawable/rounded_white"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:drawableLeft="@drawable/ic__name"
+            android:textSize="35sp"
+            android:drawablePadding="5dp"
+            android:paddingStart="10dp"
+            android:id="@+id/signupname"
+            android:layout_marginBottom="10dp"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:hint="phone"
+            android:background="@drawable/rounded_white"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:drawableLeft="@drawable/ic_phone"
+            android:textSize="35sp"
+            android:drawablePadding="5dp"
+            android:paddingStart="10dp"
+            android:paddingRight="6dp"
+            android:id="@+id/signupphone"
+            android:layout_marginBottom="10dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:hint="Password"
+            android:background="@drawable/rounded_white"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:drawableLeft="@drawable/ic_pass"
+            android:textSize="35sp"
+            android:drawablePadding="5dp"
+            android:paddingStart="10dp"
+            android:inputType="textPassword"
+            android:id="@+id/signuppassword"
+            android:layout_marginBottom="10dp"
+
+            />
+        <Button
+            android:layout_width="190dp"
+            android:layout_height="90dp"
+            android:textColor="@color/white"
+            android:text="Sign Up"
+            android:textSize="35sp"
+            android:textStyle="normal"
+            android:background="@drawable/register_button"
+            android:layout_gravity="center"
+            android:paddingLeft="20dp"
+            android:textAllCaps="false"
+            android:id="@+id/SignupB"
+            android:paddingRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            />
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

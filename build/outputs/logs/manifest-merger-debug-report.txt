@@ -1,0 +1,870 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b01fa616267e41d2a474d96f41401ece\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.valdesekamdem.library:md-toast:0.9.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e792419a96c7c0a326959a886aba6ffd\jetified-md-toast-0.9.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.stepstone.apprating:app-rating:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a64adcb59e1b31d878d3193b4d7f945b\jetified-app-rating-2.2.0\AndroidManifest.xml:2:1-14:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d14f4aff35d9ac5dd237e7e8c4eb910\jetified-calligraphy-2.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\989b19e175ccd2a2c7dff954ac324fb4\jetified-library-2.1.4\AndroidManifest.xml:2:1-10:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:21:1-55:12
+MERGED from [com.github.andremion:counterfab:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f9b7b9005a395f6333317533e731bc32\jetified-counterfab-1.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5cee04665f635392fbc3a078a89e818\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\78d780e7e979f381c0cb40b5ded8691d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\aed32f18ec3d6c8b22c401e6128e6026\play-services-places-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7887a360feea2a42ac511ab570481268\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\98a43524f8cb25979225b719d8f332a3\firebase-core-17.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c68f52dc607b5293bc92352ef1236511\com.amulyakhare.textdrawable-1.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\10a60f7968806a28d796e85f78b71623\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4dc2a73f3a50021ff5c366a1efcd25ee\paperdb-2.1\AndroidManifest.xml:2:1-14:12
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\67911906c6455d7e784512273694c462\compressor-2.1.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\71f0b1096ba8cb958f714d18924ca615\library-aar-1.0.0\AndroidManifest.xml:1:70-7:12
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7ea3665c591998f199df6fc11892353\android-flat-button-v1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e5ec0c555fe2e87b9c711b068a2d9835\library-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\0c6c4bb567aaa5d3759f6f0691105c0b\spots-dialog-0.7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.tapadoo.android:alerter:2.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7535788d4072a4946454fa45abac015\jetified-alerter-2.0.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a67f7b34f39a49c137b3cb7f42789840\firebase-analytics-17.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\72c718e5da82112aa96e19330b58571c\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\5ac122794c7bbf08fecd3ef606c40fb5\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e7f18d9a4dd15f2f39538b6f6728a054\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\91d4cbcc8ed92772376c05f6f5814849\firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a980353ed8e06b27f44f17a0b7d470b7\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\3c80682fef3d38693f375df61fe3976d\play-services-measurement-sdk-17.2.3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebca2636cac0b88c51fe79d5cc044070\play-services-measurement-base-17.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ab4d72fdc4263a03fc609ea1b14fbe0c\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f02024937df418748afbe331234aa006\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c5d349b176c72adc126b4a8399f3d7e2\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\55be576b1fb3cff6f9499b5d3d928b79\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\33904a9952e04540992fd4e899a6e29f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\599a956fc5880721b736c36d7a2a90a9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\45739e064fd8ad2faa9c3686c49a0516\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\704f77bb835d112513bfb707984cbdc1\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ac681daf82c56bbcb32cd485fc064a28\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\dbd8a55495c80c3c46794875c0ca53fb\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a22d52a93b71a6bbceaa7c9c006adaa\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\37adb3ef701a2867e8769c0927655fa4\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\793a97fec7a6dab603ab3ae8209f13cc\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ab3a184af13a3a82dd474493bbfa3bb1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a6c2f02f5bfac95e56aa3f49c83ac397\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d5cc3290d718e21788ec420e745c06fe\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a854b56cd163a08cc70affd1c719ec31\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\190ec68b3797b99e27d4d5621c313ff7\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\cea9d07eed335b7021facd428f08a0ed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\25fdd493a672d7b5d446aa2af8c06677\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4ae24e1ae0cb7fb47c37dbbfbf9199b3\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\62835964c56006e64d68a1e7bf7a8ac6\firebase-encoders-json-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ef2e7569653745383f2a88f459070658\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\91482f6452f8e2279fb096c6daca6c99\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d673f12e92e211a8b9a89c6bdf1bf2c5\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7d03fc8e0e7e41d5653ebb51e8c035fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\562a45b8cb8a3696f4fae85d73cb39c0\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e542a78b280a084fd48769af2f842423\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a258954b59e52ea64468e7c8b611841e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ac265cfd5669b686a3cba2f45a6e36b7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7fcbef39c4d63cdee011faaa088ab3cd\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\67688366c6a6c762e55784305fcbc09b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5e5093a6d2ffb564f346d2769a020dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c92e9c6549150a4bd8eb347f54ac769d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.huxq17.android:SwipeCardsView:1.3.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebb081974a573fa960cb361f051f8f30\jetified-SwipeCardsView-1.3.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a2dee19c16d2f1d29ebaed1d612d1491\transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:1-119:12
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:13:5-85
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:13:22-82
+uses-permission#android.permission.INTERNET
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:17:22-78
+supports-screens
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:18:5-22:40
+	android:largeScreens
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:20:9-36
+	android:normalScreens
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:21:9-37
+	android:xlargeScreens
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:22:9-37
+	android:anyDensity
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:19:9-34
+application
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:24:5-117:19
+MERGED from [com.valdesekamdem.library:md-toast:0.9.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e792419a96c7c0a326959a886aba6ffd\jetified-md-toast-0.9.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.valdesekamdem.library:md-toast:0.9.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e792419a96c7c0a326959a886aba6ffd\jetified-md-toast-0.9.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.stepstone.apprating:app-rating:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a64adcb59e1b31d878d3193b4d7f945b\jetified-app-rating-2.2.0\AndroidManifest.xml:12:5-20
+MERGED from [com.stepstone.apprating:app-rating:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a64adcb59e1b31d878d3193b4d7f945b\jetified-app-rating-2.2.0\AndroidManifest.xml:12:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d14f4aff35d9ac5dd237e7e8c4eb910\jetified-calligraphy-2.3.0\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d14f4aff35d9ac5dd237e7e8c4eb910\jetified-calligraphy-2.3.0\AndroidManifest.xml:11:5-20
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.github.andremion:counterfab:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f9b7b9005a395f6333317533e731bc32\jetified-counterfab-1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [com.github.andremion:counterfab:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f9b7b9005a395f6333317533e731bc32\jetified-counterfab-1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5cee04665f635392fbc3a078a89e818\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5cee04665f635392fbc3a078a89e818\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\aed32f18ec3d6c8b22c401e6128e6026\play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\aed32f18ec3d6c8b22c401e6128e6026\play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7887a360feea2a42ac511ab570481268\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7887a360feea2a42ac511ab570481268\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\98a43524f8cb25979225b719d8f332a3\firebase-core-17.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\98a43524f8cb25979225b719d8f332a3\firebase-core-17.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c68f52dc607b5293bc92352ef1236511\com.amulyakhare.textdrawable-1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c68f52dc607b5293bc92352ef1236511\com.amulyakhare.textdrawable-1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\10a60f7968806a28d796e85f78b71623\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\10a60f7968806a28d796e85f78b71623\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4dc2a73f3a50021ff5c366a1efcd25ee\paperdb-2.1\AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4dc2a73f3a50021ff5c366a1efcd25ee\paperdb-2.1\AndroidManifest.xml:12:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\71f0b1096ba8cb958f714d18924ca615\library-aar-1.0.0\AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\71f0b1096ba8cb958f714d18924ca615\library-aar-1.0.0\AndroidManifest.xml:5:5-19
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\0c6c4bb567aaa5d3759f6f0691105c0b\spots-dialog-0.7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\0c6c4bb567aaa5d3759f6f0691105c0b\spots-dialog-0.7\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a67f7b34f39a49c137b3cb7f42789840\firebase-analytics-17.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a67f7b34f39a49c137b3cb7f42789840\firebase-analytics-17.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e7f18d9a4dd15f2f39538b6f6728a054\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e7f18d9a4dd15f2f39538b6f6728a054\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a980353ed8e06b27f44f17a0b7d470b7\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a980353ed8e06b27f44f17a0b7d470b7\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\3c80682fef3d38693f375df61fe3976d\play-services-measurement-sdk-17.2.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\3c80682fef3d38693f375df61fe3976d\play-services-measurement-sdk-17.2.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebca2636cac0b88c51fe79d5cc044070\play-services-measurement-base-17.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebca2636cac0b88c51fe79d5cc044070\play-services-measurement-base-17.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ef2e7569653745383f2a88f459070658\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ef2e7569653745383f2a88f459070658\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.huxq17.android:SwipeCardsView:1.3.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebb081974a573fa960cb361f051f8f30\jetified-SwipeCardsView-1.3.4\AndroidManifest.xml:11:5-12:19
+MERGED from [com.huxq17.android:SwipeCardsView:1.3.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebb081974a573fa960cb361f051f8f30\jetified-SwipeCardsView-1.3.4\AndroidManifest.xml:11:5-12:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:30:9-36
+		REJECTED from [com.valdesekamdem.library:md-toast:0.9.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e792419a96c7c0a326959a886aba6ffd\jetified-md-toast-0.9.0\AndroidManifest.xml:14:9-35
+		REJECTED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:27:9-41
+	tools:ignore
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:33:9-48
+	android:roundIcon
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:29:9-42
+	android:largeHeap
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:28:9-33
+	android:icon
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:26:9-37
+		REJECTED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:31:9-40
+	tools:replace
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:32:9-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:43:9-45:55
+	android:value
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:44:13-58
+activity#com.example.topchef.MapsActivity2
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:47:9-49:69
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:49:13-57
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:48:13-42
+activity#com.example.topchef.SplashScreen
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:50:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.example.topchef.UserPanel.userSignup
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:57:9-58
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:57:19-55
+activity#com.example.topchef.UserPanel.userSignin
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:58:9-58
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:58:19-55
+activity#com.example.topchef.Login
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:59:9-61:40
+	android:noHistory
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:60:13-34
+activity#com.example.topchef.UserPanel.category
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:62:9-65:47
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:64:13-60
+	android:theme
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:63:13-47
+meta-data#android.support.VERSION
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:67:9-70:45
+	tools:replace
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:70:13-42
+	android:value
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:69:13-35
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:68:13-51
+activity#com.example.topchef.UserPanel.foodDetails
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:72:9-75:48
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:74:13-68
+	android:theme
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:73:13-50
+activity#com.example.topchef.UserPanel.FoodInfo
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:76:9-79:47
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:78:13-61
+	android:theme
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:79:13-44
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:77:13-47
+activity#com.example.topchef.UserPanel.ShowCart
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:80:9-56
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:80:19-53
+activity#com.example.topchef.UserPanel.ShowOrders
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:81:9-58
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:81:19-55
+service#com.example.topchef.RealTimeNotification.fcmmessageingservice
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:84:9-88:19
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:84:18-75
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:85:13-87:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:86:17-78
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:86:25-75
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:90:9-92:48
+	android:value
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:92:13-45
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:91:13-67
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:93:9-95:55
+	android:value
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:95:13-52
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:94:13-58
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:96:9-98:64
+	android:value
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:98:13-61
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:97:13-63
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:100:9-103:45
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:29:9-34:58
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:29:9-34:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:31:13-65
+	android:launchMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:102:13-49
+		REJECTED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:33:13-52
+	tools:replace
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:103:13-42
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:101:13-73
+activity#com.example.topchef.MapsActivity
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:104:9-106:59
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:106:13-56
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:105:13-41
+activity#com.example.topchef.UserPanel.favourite_food
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:107:9-62
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:107:19-59
+activity#com.example.topchef.AboutUs
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:108:9-45
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:108:19-42
+activity#com.example.topchef.Track_shipper
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:109:9-111:68
+	android:label
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:111:13-65
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:110:13-42
+service#com.example.topchef.getLocation
+ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:113:9-116:39
+	android:enabled
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:115:13-35
+	android:exported
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:114:13-40
+uses-sdk
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b01fa616267e41d2a474d96f41401ece\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b01fa616267e41d2a474d96f41401ece\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.valdesekamdem.library:md-toast:0.9.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e792419a96c7c0a326959a886aba6ffd\jetified-md-toast-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.valdesekamdem.library:md-toast:0.9.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e792419a96c7c0a326959a886aba6ffd\jetified-md-toast-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.stepstone.apprating:app-rating:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a64adcb59e1b31d878d3193b4d7f945b\jetified-app-rating-2.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.stepstone.apprating:app-rating:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a64adcb59e1b31d878d3193b4d7f945b\jetified-app-rating-2.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d14f4aff35d9ac5dd237e7e8c4eb910\jetified-calligraphy-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d14f4aff35d9ac5dd237e7e8c4eb910\jetified-calligraphy-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\989b19e175ccd2a2c7dff954ac324fb4\jetified-library-2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\989b19e175ccd2a2c7dff954ac324fb4\jetified-library-2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\fcd880bcca386946f08b5132cd90019a\lib-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.andremion:counterfab:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f9b7b9005a395f6333317533e731bc32\jetified-counterfab-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.andremion:counterfab:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f9b7b9005a395f6333317533e731bc32\jetified-counterfab-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5cee04665f635392fbc3a078a89e818\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5cee04665f635392fbc3a078a89e818\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\78d780e7e979f381c0cb40b5ded8691d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\78d780e7e979f381c0cb40b5ded8691d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\6d16290c97378708d50718ed6ea0b1c0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\aed32f18ec3d6c8b22c401e6128e6026\play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\aed32f18ec3d6c8b22c401e6128e6026\play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7887a360feea2a42ac511ab570481268\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7887a360feea2a42ac511ab570481268\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\98a43524f8cb25979225b719d8f332a3\firebase-core-17.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\98a43524f8cb25979225b719d8f332a3\firebase-core-17.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c68f52dc607b5293bc92352ef1236511\com.amulyakhare.textdrawable-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c68f52dc607b5293bc92352ef1236511\com.amulyakhare.textdrawable-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\10a60f7968806a28d796e85f78b71623\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\10a60f7968806a28d796e85f78b71623\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4dc2a73f3a50021ff5c366a1efcd25ee\paperdb-2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4dc2a73f3a50021ff5c366a1efcd25ee\paperdb-2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\67911906c6455d7e784512273694c462\compressor-2.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\67911906c6455d7e784512273694c462\compressor-2.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\71f0b1096ba8cb958f714d18924ca615\library-aar-1.0.0\AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\71f0b1096ba8cb958f714d18924ca615\library-aar-1.0.0\AndroidManifest.xml:3:5-72
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7ea3665c591998f199df6fc11892353\android-flat-button-v1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7ea3665c591998f199df6fc11892353\android-flat-button-v1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e5ec0c555fe2e87b9c711b068a2d9835\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e5ec0c555fe2e87b9c711b068a2d9835\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\0c6c4bb567aaa5d3759f6f0691105c0b\spots-dialog-0.7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\0c6c4bb567aaa5d3759f6f0691105c0b\spots-dialog-0.7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.tapadoo.android:alerter:2.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7535788d4072a4946454fa45abac015\jetified-alerter-2.0.3\AndroidManifest.xml:7:5-10:72
+MERGED from [com.tapadoo.android:alerter:2.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7535788d4072a4946454fa45abac015\jetified-alerter-2.0.3\AndroidManifest.xml:7:5-10:72
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a67f7b34f39a49c137b3cb7f42789840\firebase-analytics-17.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a67f7b34f39a49c137b3cb7f42789840\firebase-analytics-17.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\72c718e5da82112aa96e19330b58571c\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\72c718e5da82112aa96e19330b58571c\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\5ac122794c7bbf08fecd3ef606c40fb5\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\5ac122794c7bbf08fecd3ef606c40fb5\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e7f18d9a4dd15f2f39538b6f6728a054\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e7f18d9a4dd15f2f39538b6f6728a054\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\91d4cbcc8ed92772376c05f6f5814849\firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\91d4cbcc8ed92772376c05f6f5814849\firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\75185506230655574b8334cb643643f0\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\698268a0a81e9f05504f9f90dbf99e08\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a980353ed8e06b27f44f17a0b7d470b7\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a980353ed8e06b27f44f17a0b7d470b7\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\3c80682fef3d38693f375df61fe3976d\play-services-measurement-sdk-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\3c80682fef3d38693f375df61fe3976d\play-services-measurement-sdk-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\338fab4b05d87887cad32009aa98de25\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebca2636cac0b88c51fe79d5cc044070\play-services-measurement-base-17.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebca2636cac0b88c51fe79d5cc044070\play-services-measurement-base-17.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f4d430d7612f12d82e3c4400aed4b652\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ab4d72fdc4263a03fc609ea1b14fbe0c\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ab4d72fdc4263a03fc609ea1b14fbe0c\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f02024937df418748afbe331234aa006\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f02024937df418748afbe331234aa006\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c5d349b176c72adc126b4a8399f3d7e2\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c5d349b176c72adc126b4a8399f3d7e2\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\55be576b1fb3cff6f9499b5d3d928b79\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\55be576b1fb3cff6f9499b5d3d928b79\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\33904a9952e04540992fd4e899a6e29f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\33904a9952e04540992fd4e899a6e29f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\599a956fc5880721b736c36d7a2a90a9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\599a956fc5880721b736c36d7a2a90a9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\45739e064fd8ad2faa9c3686c49a0516\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\45739e064fd8ad2faa9c3686c49a0516\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\704f77bb835d112513bfb707984cbdc1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\704f77bb835d112513bfb707984cbdc1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ac681daf82c56bbcb32cd485fc064a28\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ac681daf82c56bbcb32cd485fc064a28\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\dbd8a55495c80c3c46794875c0ca53fb\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\dbd8a55495c80c3c46794875c0ca53fb\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a22d52a93b71a6bbceaa7c9c006adaa\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a22d52a93b71a6bbceaa7c9c006adaa\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\37adb3ef701a2867e8769c0927655fa4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\37adb3ef701a2867e8769c0927655fa4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\793a97fec7a6dab603ab3ae8209f13cc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\793a97fec7a6dab603ab3ae8209f13cc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ab3a184af13a3a82dd474493bbfa3bb1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ab3a184af13a3a82dd474493bbfa3bb1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a6c2f02f5bfac95e56aa3f49c83ac397\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a6c2f02f5bfac95e56aa3f49c83ac397\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d5cc3290d718e21788ec420e745c06fe\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d5cc3290d718e21788ec420e745c06fe\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a854b56cd163a08cc70affd1c719ec31\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a854b56cd163a08cc70affd1c719ec31\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\190ec68b3797b99e27d4d5621c313ff7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\190ec68b3797b99e27d4d5621c313ff7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\cea9d07eed335b7021facd428f08a0ed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\cea9d07eed335b7021facd428f08a0ed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\25fdd493a672d7b5d446aa2af8c06677\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\25fdd493a672d7b5d446aa2af8c06677\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4ae24e1ae0cb7fb47c37dbbfbf9199b3\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4ae24e1ae0cb7fb47c37dbbfbf9199b3\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\62835964c56006e64d68a1e7bf7a8ac6\firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\62835964c56006e64d68a1e7bf7a8ac6\firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ef2e7569653745383f2a88f459070658\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ef2e7569653745383f2a88f459070658\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\91482f6452f8e2279fb096c6daca6c99\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\91482f6452f8e2279fb096c6daca6c99\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d673f12e92e211a8b9a89c6bdf1bf2c5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d673f12e92e211a8b9a89c6bdf1bf2c5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7d03fc8e0e7e41d5653ebb51e8c035fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7d03fc8e0e7e41d5653ebb51e8c035fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\562a45b8cb8a3696f4fae85d73cb39c0\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\562a45b8cb8a3696f4fae85d73cb39c0\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e542a78b280a084fd48769af2f842423\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\e542a78b280a084fd48769af2f842423\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a258954b59e52ea64468e7c8b611841e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a258954b59e52ea64468e7c8b611841e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ac265cfd5669b686a3cba2f45a6e36b7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ac265cfd5669b686a3cba2f45a6e36b7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7fcbef39c4d63cdee011faaa088ab3cd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\7fcbef39c4d63cdee011faaa088ab3cd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\67688366c6a6c762e55784305fcbc09b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\67688366c6a6c762e55784305fcbc09b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5e5093a6d2ffb564f346d2769a020dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\f5e5093a6d2ffb564f346d2769a020dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c92e9c6549150a4bd8eb347f54ac769d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\c92e9c6549150a4bd8eb347f54ac769d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.huxq17.android:SwipeCardsView:1.3.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebb081974a573fa960cb361f051f8f30\jetified-SwipeCardsView-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huxq17.android:SwipeCardsView:1.3.4] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebb081974a573fa960cb361f051f8f30\jetified-SwipeCardsView-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a2dee19c16d2f1d29ebaed1d612d1491\transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\a2dee19c16d2f1d29ebaed1d612d1491\transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.tapadoo.android:alerter:2.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\d7535788d4072a4946454fa45abac015\jetified-alerter-2.0.3\AndroidManifest.xml:10:9-69
+	android:targetSdkVersion
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		ADDED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:35:9-38:40
+	android:noHistory
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:38:13-37
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:36:13-86
+provider#com.facebook.accountkit.internal.AccountKitInitProvider
+ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:51:13-76
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:50:13-83
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:37:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:36:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:39:17-119
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9a55f2985a6ad8f36c36cff69216ebe8\play-services-measurement-sdk-api-17.2.3\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1f93efe56c145e5106cd0049309783a4\play-services-measurement-impl-17.2.3\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132

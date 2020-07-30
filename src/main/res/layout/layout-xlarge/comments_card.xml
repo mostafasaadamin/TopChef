@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/first"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="01157914224"
+                android:id="@+id/user_phone"
+                android:textSize="30sp"
+                android:textColor="#000"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="10dp"
+
+                />
+            <RatingBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                style="@style/Base.Widget.AppCompat.RatingBar.Small"
+                android:id="@+id/rating_bar"
+                android:layout_gravity="center_vertical"
+                android:rating="5"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/first"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/comment"
+                android:layout_gravity="center"
+                android:padding="5dp"
+                android:textSize="29sp"
+                android:textColor="#000"
+                android:text="This food is awesome"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

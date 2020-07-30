@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80487582092",
+    "firebase_url": "https://top-chef-bd71c.firebaseio.com",
+    "project_id": "top-chef-bd71c",
+    "storage_bucket": "top-chef-bd71c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80487582092:android:6c381e0eab3ac593e3aea9",
+        "android_client_info": {
+          "package_name": "com.example.topchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80487582092-cs3qih9r3t814pq0n8vsr1joh90rlmar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.topchef",
+            "certificate_hash": "3e415c2f0c99ca339ca33c78bb37c36658e4311c"
+          }
+        },
+        {
+          "client_id": "80487582092-bhtg0ikkmg8cmt3dbc47abd1n4hb8lsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DDvdn3zijD8yKmA4oTC-mbZmPhRkFpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80487582092-bhtg0ikkmg8cmt3dbc47abd1n4hb8lsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
