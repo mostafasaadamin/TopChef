@@ -1,0 +1,477 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.topchef"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+13         Google Maps Android API v2, but you must specify either coarse or fine
+14         location permissions for the 'MyLocation' functionality.
+15    -->
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:11:5-79
+16-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:12:5-79
+17-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+18-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:13:5-85
+18-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:13:22-82
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:14:5-67
+19-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:14:22-64
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:15:5-76
+20-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:15:22-73
+21    <uses-permission android:name="android.permission.VIBRATE" />
+21-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:16:5-66
+21-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:16:22-63
+22    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+22-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:17:5-81
+22-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:17:22-78
+23
+24    <supports-screens
+24-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:18:5-22:40
+25        android:anyDensity="true"
+25-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:19:9-34
+26        android:largeScreens="true"
+26-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:20:9-36
+27        android:normalScreens="true"
+27-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:21:9-37
+28        android:xlargeScreens="true" />
+28-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:22:9-37
+29
+30    <uses-feature
+30-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+31        android:glEsVersion="0x00020000"
+31-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+32        android:required="true" />
+32-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+33
+34    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+34-->[com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:24:5-68
+34-->[com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:24:22-65
+35    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+35-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:26:5-82
+35-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:26:22-79
+36    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+36-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:26:5-110
+36-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:26:22-107
+37
+38    <application
+38-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:24:5-117:19
+39        android:name="androidx.multidex.MultiDexApplication"
+40        android:allowBackup="true"
+40-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:25:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.1.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b6b5951a20836cbe843a8e306a5032d5\core-1.1.0\AndroidManifest.xml:24:18-86
+42        android:debuggable="true"
+43        android:icon="@drawable/top"
+43-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:26:9-37
+44        android:label="@string/app_name"
+44-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:27:9-41
+45        android:largeHeap="true"
+45-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:28:9-33
+46        android:roundIcon="@drawable/top"
+46-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:29:9-42
+47        android:supportsRtl="false"
+47-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:30:9-36
+48        android:testOnly="true"
+49        android:theme="@style/AppTheme" >
+49-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:31:9-40
+50
+51        <!--
+52             The API key for Google Maps-based APIs is defined as a string resource.
+53             (See the file "res/values/google_maps_api.xml").
+54             Note that the API key is linked to the encryption key used to sign the APK.
+55             You need a different API key for each encryption key, including the release key that is used to
+56             sign the APK for publishing.
+57             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+58        -->
+59        <meta-data
+59-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:43:9-45:55
+60            android:name="com.google.android.geo.API_KEY"
+60-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:44:13-58
+61            android:value="@string/google_maps_key" />
+61-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:45:13-52
+62
+63        <activity
+63-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:47:9-49:69
+64            android:name="com.example.topchef.MapsActivity2"
+64-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:48:13-42
+65            android:label="@string/title_activity_maps2" />
+65-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:49:13-57
+66        <activity android:name="com.example.topchef.SplashScreen" >
+66-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:50:9-56:20
+66-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:50:19-47
+67            <intent-filter>
+67-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:51:13-55:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:52:17-69
+68-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:52:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:54:17-77
+70-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:54:27-74
+71            </intent-filter>
+72        </activity>
+73        <activity android:name="com.example.topchef.UserPanel.userSignup" />
+73-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:57:9-58
+73-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:57:19-55
+74        <activity android:name="com.example.topchef.UserPanel.userSignin" />
+74-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:58:9-58
+74-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:58:19-55
+75        <activity
+75-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:59:9-61:40
+76            android:name="com.example.topchef.Login"
+76-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:60:13-34
+77            android:noHistory="true" />
+77-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:61:13-37
+78        <activity
+78-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:62:9-65:47
+79            android:name="com.example.topchef.UserPanel.category"
+79-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:63:13-47
+80            android:label="@string/title_activity_category"
+80-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:64:13-60
+81            android:theme="@style/AppTheme" />
+81-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:65:13-44
+82
+83        <meta-data
+83-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:67:9-70:45
+84            android:name="android.support.VERSION"
+84-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:68:13-51
+85            android:value="26.0.0" />
+85-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:69:13-35
+86
+87        <activity
+87-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:72:9-75:48
+88            android:name="com.example.topchef.UserPanel.foodDetails"
+88-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:73:13-50
+89            android:label="Proude to Serve you Chose what you Like"
+89-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:74:13-68
+90            android:theme="@style/AppTheme2" />
+90-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:75:13-45
+91        <activity
+91-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:76:9-79:47
+92            android:name="com.example.topchef.UserPanel.FoodInfo"
+92-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:77:13-47
+93            android:label="@string/title_activity_food_info"
+93-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:78:13-61
+94            android:theme="@style/AppTheme" />
+94-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:79:13-44
+95        <activity android:name="com.example.topchef.UserPanel.ShowCart" />
+95-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:80:9-56
+95-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:80:19-53
+96        <activity android:name="com.example.topchef.UserPanel.ShowOrders" />
+96-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:81:9-58
+96-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:81:19-55
+97
+98        <service android:name="com.example.topchef.RealTimeNotification.fcmmessageingservice" >
+98-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:84:9-88:19
+98-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:84:18-75
+99            <intent-filter>
+99-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:85:13-87:29
+100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+100-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:86:17-78
+100-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:86:25-75
+101            </intent-filter>
+102        </service>
+103
+104        <meta-data
+104-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:90:9-92:48
+105            android:name="com.facebook.accountkit.ApplicationName"
+105-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:91:13-67
+106            android:value="@string/app_name" />
+106-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:92:13-45
+107        <meta-data
+107-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:93:9-95:55
+108            android:name="com.facebook.sdk.ApplicationId"
+108-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:94:13-58
+109            android:value="@string/facebook_app_id" />
+109-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:95:13-52
+110        <meta-data
+110-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:96:9-98:64
+111            android:name="com.facebook.accountkit.ClientToken"
+111-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:97:13-63
+112            android:value="@string/account_kit_client_token" />
+112-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:98:13-61
+113
+114        <activity
+114-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:100:9-103:45
+115            android:name="com.facebook.accountkit.ui.AccountKitActivity"
+115-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:101:13-73
+116            android:label="@string/com_accountkit_button_log_in"
+116-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:31:13-65
+117            android:launchMode="singleTop"
+117-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:32:13-43
+118            android:theme="@style/AppLoginTheme"
+118-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:102:13-49
+119            android:windowSoftInputMode="adjustResize" />
+119-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:34:13-55
+120        <activity
+120-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:104:9-106:59
+121            android:name="com.example.topchef.MapsActivity"
+121-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:105:13-41
+122            android:label="@string/title_activity_maps" />
+122-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:106:13-56
+123        <activity android:name="com.example.topchef.UserPanel.favourite_food" />
+123-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:107:9-62
+123-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:107:19-59
+124        <activity android:name="com.example.topchef.AboutUs" />
+124-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:108:9-45
+124-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:108:19-42
+125        <activity
+125-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:109:9-111:68
+126            android:name="com.example.topchef.Track_shipper"
+126-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:110:13-42
+127            android:label="@string/title_activity_track_shipper" />
+127-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:111:13-65
+128
+129        <service
+129-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:113:9-116:39
+130            android:name="com.example.topchef.getLocation"
+130-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:114:13-40
+131            android:enabled="true"
+131-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:115:13-35
+132            android:exported="true" />
+132-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:116:13-36
+133
+134        <activity
+134-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:35:9-38:40
+135            android:name="com.facebook.accountkit.ui.AccountKitEmailRedirectActivity"
+135-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:36:13-86
+136            android:exported="true"
+136-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:37:13-36
+137            android:noHistory="true" />
+137-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:38:13-37
+138        <!--
+139             The initialization ContentProvider will call AccountKit.initialize automatically
+140             with the application context. This config is merged in with the host app's manifest,
+141             but there can only be one provider with the same authority activated at any given
+142             point; so if the end user has two or more different apps that use AccountKit, only the
+143             first one will be able to use the provider. To work around this problem, we use the
+144             following placeholder in the authority to identify each host application as if it was
+145             a completely different provider.
+146        -->
+147        <provider
+147-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:49:9-52:40
+148            android:name="com.facebook.accountkit.internal.AccountKitInitProvider"
+148-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:50:13-83
+149            android:authorities="com.example.topchef.AccountKitInitialization"
+149-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:51:13-76
+150            android:exported="false" />
+150-->[com.facebook.android:account-kit-sdk:4.20.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8020e6a0f3f5112983a8c1e89c5e3100\jetified-account-kit-sdk-4.20.0\AndroidManifest.xml:52:13-37
+151        <!--
+152             FirebaseMessagingService performs security checks at runtime,
+153             but set to not exported to explicitly avoid allowing another app to call it.
+154        -->
+155        <service
+155-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:28:9-34:19
+156            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+156-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:29:13-82
+157            android:exported="false" >
+157-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:30:13-37
+158            <intent-filter android:priority="-500" >
+158-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:85:13-87:29
+159                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+159-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:86:17-78
+159-->E:\myprojects\HideandSeek-master\TopChef2\app\src\main\AndroidManifest.xml:86:25-75
+160            </intent-filter>
+161        </service>
+162        <service
+162-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:35:9-41:19
+163            android:name="com.google.firebase.components.ComponentDiscoveryService"
+163-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:36:13-84
+164            android:directBootAware="true"
+164-->[com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+165            android:exported="false" >
+165-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:37:13-37
+166            <meta-data
+166-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:38:13-40:85
+167                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+167-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:39:17-119
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.firebase:firebase-messaging:20.1.2] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9182155159336a4015f373aca9a42832\jetified-firebase-messaging-20.1.2\AndroidManifest.xml:40:17-82
+169            <meta-data
+169-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+170                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+170-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\9f72f06e3badb45cd37f18c49f63afb3\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+172            <meta-data
+172-->[com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:30:13-32:85
+173                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+173-->[com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:31:17-139
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ebfed4c38d4ddfe7c748f7ed4fa7073b\play-services-measurement-api-17.2.3\AndroidManifest.xml:32:17-82
+175            <meta-data
+175-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:32:13-34:85
+176                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+176-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:33:17-96
+177                android:value="com.google.firebase.components.ComponentRegistrar" />
+177-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:34:17-82
+178            <meta-data
+178-->[com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:17:13-19:85
+179                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+179-->[com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:18:17-127
+180                android:value="com.google.firebase.components.ComponentRegistrar" />
+180-->[com.google.firebase:firebase-installations:16.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\eb911b92485484e90b4b99c8c3815f14\firebase-installations-16.0.0\AndroidManifest.xml:19:17-82
+181        </service> <!-- Needs to be explicitly declared on P+ -->
+182        <uses-library
+182-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+183            android:name="org.apache.http.legacy"
+183-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+184            android:required="false" />
+184-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\54ab3033ac1c0ed86f67ec5de980edd5\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+185
+186        <activity
+186-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+187            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+187-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+188            android:excludeFromRecents="true"
+188-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+189            android:exported="false"
+189-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+190            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+190-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+191        <!--
+192            Service handling Google Sign-In user revocation. For apps that do not integrate with
+193            Google Sign-In, this service will never be started.
+194        -->
+195        <service
+195-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+196            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+196-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+197            android:exported="true"
+197-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+198            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+198-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\1ec80cdf0b9e40524eec1efb41525459\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+199
+200        <receiver
+200-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:37:9-44:20
+201            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+201-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:38:13-78
+202            android:exported="true"
+202-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:39:13-36
+203            android:permission="com.google.android.c2dm.permission.SEND" >
+203-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:40:13-73
+204            <intent-filter>
+204-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:41:13-43:29
+205                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+205-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:42:17-81
+205-->[com.google.firebase:firebase-iid:20.1.1] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\ea7025d33eb3ac686bac3da323aa4aaa\firebase-iid-20.1.1\AndroidManifest.xml:42:25-78
+206            </intent-filter>
+207        </receiver>
+208
+209        <provider
+209-->[com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+210            android:name="com.google.firebase.provider.FirebaseInitProvider"
+210-->[com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+211            android:authorities="com.example.topchef.firebaseinitprovider"
+211-->[com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+212            android:exported="false"
+212-->[com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+213            android:initOrder="100" />
+213-->[com.google.firebase:firebase-common:19.3.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\84909f4921ae6177ddc8252e6c40fd33\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+214
+215        <activity
+215-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+216            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+216-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+217            android:exported="false"
+217-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+218            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+218-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\951b5e7f354daaaf8db57d3e12181016\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+219
+220        <receiver
+220-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:29:9-33:20
+221            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+221-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:30:13-85
+222            android:enabled="true"
+222-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:31:13-35
+223            android:exported="false" >
+223-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:32:13-37
+224        </receiver>
+225        <receiver
+225-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:34:9-42:20
+226            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+226-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:35:13-100
+227            android:enabled="true"
+227-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:36:13-35
+228            android:exported="true"
+228-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:37:13-36
+229            android:permission="android.permission.INSTALL_PACKAGES" >
+229-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:38:13-69
+230            <intent-filter>
+230-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:39:13-41:29
+231                <action android:name="com.android.vending.INSTALL_REFERRER" />
+231-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:40:17-79
+231-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:40:25-76
+232            </intent-filter>
+233        </receiver>
+234
+235        <service
+235-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:44:9-47:40
+236            android:name="com.google.android.gms.measurement.AppMeasurementService"
+236-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:45:13-84
+237            android:enabled="true"
+237-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:46:13-35
+238            android:exported="false" />
+238-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:47:13-37
+239        <service
+239-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:48:9-52:72
+240            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+240-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:49:13-87
+241            android:enabled="true"
+241-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:50:13-35
+242            android:exported="false"
+242-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:51:13-37
+243            android:permission="android.permission.BIND_JOB_SERVICE" />
+243-->[com.google.android.gms:play-services-measurement:17.2.3] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\8265e58e0630176241080ed4127d05d4\play-services-measurement-17.2.3\AndroidManifest.xml:52:13-69
+244
+245        <meta-data
+245-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+246            android:name="com.google.android.gms.version"
+246-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+247            android:value="@integer/google_play_services_version" />
+247-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\bf53cb4e2fd16e3b5d054400560ad293\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+248
+249        <service
+249-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+250            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+250-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+251            android:exported="false" >
+251-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+252            <meta-data
+252-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+253                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+253-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+254                android:value="cct" />
+254-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\4261c688669da80107347c5de92129c7\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+255        </service>
+256        <service
+256-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+257            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+257-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+258            android:exported="false"
+258-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+259            android:permission="android.permission.BIND_JOB_SERVICE" >
+259-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+260        </service>
+261
+262        <receiver
+262-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+263            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+263-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+264            android:exported="false" />
+264-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\mostafa\.gradle\caches\transforms-2\files-2.1\b758438fff61aa44104150776a2ae013\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+265    </application>
+266
+267</manifest>
